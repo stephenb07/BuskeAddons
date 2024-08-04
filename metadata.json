@@ -1,0 +1,8 @@
+{
+    "name": "BuskeAddons",
+    "description": "A module with a working GUI using Amaterasu",
+    "version": "1.0.0",
+    "author": "YourName",
+    "entry": "index.js",
+    "requires": ["Amaterasu", "Atomx", "PogData", "PromiseV2", "numeraljs"]
+  }

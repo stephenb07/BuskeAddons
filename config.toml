@@ -1,0 +1,40 @@
+
+[general]
+	enable_module = true
+	dummy_general_feature = false
+
+[slayers]
+	slayer_boss_alert = false
+
+[exploration]
+	show_waypoints = false
+	fairy_soul_counter = false
+
+[hud]
+	show_fps = false
+	dummy_hud_feature = false
+
+[chat]
+	enhanced_chat = true
+	enhanced_chat_style = 1
+	dummy_chat_feature = true
+	bold_enhanced_chat = true
+	enhanced_chat_color = "255,97,174,56"
+	auto_gg = true
+
+[dungeons]
+	dungeon_map = true
+	dummy_dungeon_feature = false
+
+[farming]
+	auto_plant = false
+	dummy_farming_feature = false
+
+[combat]
+	dummy_combat_feature = false
+	auto_attack = false
+
+[mining]
+	auto_mine = false
+	mining_speed_boost_alert = false
+
